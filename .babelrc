@@ -1,0 +1,5 @@
+{
+  "plugins": ["transform-runtime", "transform-flow-strip-types"],
+  "presets": ["env", "stage-0", "flow"],
+  "ignore": ["**/*__tests__", "**/*__mocks__", "**/*.next"]
+}
